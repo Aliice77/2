@@ -1,0 +1,16 @@
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.exe
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.deps.json
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.runtimeconfig.json
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.runtimeconfig.dev.json
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.dll
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\ref\session1.dll
+C:\Users\Alice\Desktop\C#\session1\bin\Debug\net5.0\session1.pdb
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.csprojAssemblyReference.cache
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.AssemblyInfoInputs.cache
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.AssemblyInfo.cs
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.csproj.CoreCompileInputs.cache
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.dll
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\ref\session1.dll
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.pdb
+C:\Users\Alice\Desktop\C#\session1\obj\Debug\net5.0\session1.genruntimeconfig.cache
